@@ -1,0 +1,2 @@
+# GestionDeStock
+Trabajo Practico Integrador
